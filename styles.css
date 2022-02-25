@@ -8,3 +8,24 @@ body {
     display: flex;
     justify-content: space-between;
 }
+
+.right {
+    display: flex;
+    align-items: center;
+}
+
+.left {
+    display: flex;
+    align-items: center;
+}
+
+.image1 {
+    width: 18px;
+    height: 18px;
+}
+
+.image2 {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+}
